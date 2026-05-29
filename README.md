@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Samuel Ihab Kamal
 
-<!--
-**samuelhany-cpu/samuelhany-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on Data Engineering, Backend Development, and AI-powered systems.
 
-Here are some ideas to get you started:
+## Main Focus
+- Data Engineering: Python, SQL, PostgreSQL, ETL/ELT, Data Quality
+- Backend: Node.js, TypeScript, Express, REST APIs, SQL
+- AI/ML: PyTorch, scikit-learn, anomaly detection, computer vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Fintech Market Data Pipeline
+Python/PostgreSQL pipeline for market data ingestion, raw/staging/mart modeling, SQL data quality checks, and Streamlit analytics dashboard.
+
+Live Demo: https://fintech-market-data-pipeline.streamlit.app/  
+Repo: https://github.com/samuelhany-cpu/fintech-market-data-pipeline
+
+### Colab Task Manager
+Real-time collaborative task management platform using Next.js, TypeScript, Prisma, PostgreSQL, Socket.io, and NextAuth.
+
+Repo: https://github.com/samuelhany-cpu/colab-task-manager
+
+### AI-Based Fabric Defect Detection
+Computer vision anomaly detection pipeline with reproducible data splits, feature extraction, evaluation, and heatmap localization.
+
+Repo: https://github.com/samuelhany-cpu/AI-Based-Fabric-Defect-Detection-System
+
+## Tech Stack
+Python • SQL • PostgreSQL • pandas • Docker • Streamlit • TypeScript • Node.js • React • Next.js • Prisma • PyTorch
+
+## Contact
+Email: Samuelhany500@gmail.com  
+LinkedIn: add-your-link-here

@@ -29,5 +29,4 @@ Repo: https://github.com/samuelhany-cpu/AI-Based-Fabric-Defect-Detection-System
 Python • SQL • PostgreSQL • pandas • Docker • Streamlit • TypeScript • Node.js • React • Next.js • Prisma • PyTorch
 
 ## Contact
-Email: Samuelhany500@gmail.com  
-LinkedIn: add-your-link-here
+Email: Samuelhany500@gmail.com
